@@ -4,9 +4,9 @@ import '@fortawesome/fontawesome-free/css/all.min.css'; // Importação do Font 
 
 export const Header = (props) => {
   const images = [
-    "../img/portao.jpg",
-    "../img/portao1.jpg",
-    "../img/portao2.jpg",
+    "../img/porta.jpeg",
+    "../img/porta1.jpeg",
+    "../img/porta2.jpeg",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
